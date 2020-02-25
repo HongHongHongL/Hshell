@@ -2,7 +2,7 @@
 
 void init()
 {
-    
+    UI_init();
 }
 
 void main_loop()
